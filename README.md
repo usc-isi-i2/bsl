@@ -8,7 +8,7 @@ Matthew Michelson and Craig A. Knoblock, Learning Blocking Schemes for Record Li
 
 BSL learns blocking schemes for record linkage that attempt to minimize the number of false positives while covering as many true positives as possible in the training set. This means you need to label data, but we assume you are doing blocking for supervised record linkage.
 
-Please refer to the license agreement on the download page for this software for terms of use. However, if you do use the program for research, or modify the source and then use the program, please cite the above paper. Please direct all inquiries to www.isi.edu/~michelso. Enjoy!
+Please refer to the license agreement on the download page for this software for terms of use. However, if you do use the program for research, or modify the source and then use the program, please cite the above paper.
 --------------------------------------------------------
 INSTALLATION:
 Unzip the package BSL.zip to whatever folder you want and you should be ready to use the system, given that you have Java on the machine and it's a compatible version (you will get an error if it is not.).
